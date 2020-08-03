@@ -1,2 +1,11 @@
+############################
+#                          #
+#           v1.0           #
+#                          #
+############################
+
+
 Welcome to Ella Training Home!
 Mutual work alone.
+
+# CRLF
